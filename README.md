@@ -6,8 +6,10 @@
 ```
 apt update -y && apt upgrade -y
 ```
+
 ```
 pip install colorama pyfiglet
+```
 ```
 apt install git -y
 ```
